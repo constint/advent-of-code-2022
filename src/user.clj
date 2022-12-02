@@ -7,10 +7,10 @@
   (clerk/serve! {:browse? true})
 
   ;; either call `clerk/show!` explicitly
-  (clerk/show! "notebooks/rule_30.clj")
+  (clerk/show! "src/day1.clj")
 
   ;; or let Clerk watch the given `:paths` for changes
-  (clerk/serve! {:watch-paths ["notebooks" "src"]})
+  (clerk/serve! {:watch-paths ["src"]})
 
   ;; start with watcher and show filter function to enable notebook pinning
-  (clerk/serve! {:watch-paths ["notebooks" "src"] :show-filter-fn #(clojure.string/starts-with? % "notebooks")}))
+  (clerk/serve! {:watch-paths ["src"] :show-filter-fn #(clojure.string/starts-with? % "notebooks")}))
