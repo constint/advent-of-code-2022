@@ -10,24 +10,22 @@
       <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/.clerk" />
-      <excludeFolder url="file://$MODULE_DIR$/.idea" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Deps: com.pngencoder/pngencoder:0.13.1" level="project" />
     <orderEntry type="library" name="Deps: org.clojure/data.json:2.4.0" level="project" />
     <orderEntry type="library" name="Deps: org.lz4/lz4-java:1.8.0" level="project" />
-    <orderEntry type="library" name="Deps: org.clojure/clojure:1.10.3" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/clojure:1.11.1" level="project" />
     <orderEntry type="library" name="Deps: javax.activation/javax.activation-api:1.2.0" level="project" />
     <orderEntry type="library" name="Deps: com.ibm.icu/icu4j:70.1" level="project" />
     <orderEntry type="library" name="Deps: weavejester/dependency:0.2.1" level="project" />
     <orderEntry type="library" name="Deps: org.clojure/tools.analyzer:1.1.0" level="project" />
     <orderEntry type="library" name="Deps: io.github.nextjournal/clerk:0.11.603" level="project" />
-    <orderEntry type="library" name="Deps: org.clojure/core.specs.alpha:0.2.56" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/core.specs.alpha:0.2.62" level="project" />
     <orderEntry type="library" name="Deps: org.tukaani/xz:1.9" level="project" />
     <orderEntry type="library" name="Deps: org.graalvm.js/js:21.3.2.1" level="project" />
-    <orderEntry type="library" name="Deps: org.clojure/spec.alpha:0.2.194" level="project" />
+    <orderEntry type="library" name="Deps: org.clojure/spec.alpha:0.3.218" level="project" />
     <orderEntry type="library" name="Deps: com.taoensso/encore:3.23.0" level="project" />
     <orderEntry type="library" name="Deps: org.graalvm.regex/regex:21.3.2.1" level="project" />
     <orderEntry type="library" name="Deps: org.clojure/tools.analyzer.jvm:1.1.0" level="project" />
