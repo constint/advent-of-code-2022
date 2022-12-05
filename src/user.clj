@@ -8,7 +8,7 @@
   (clerk/serve! {:browse? true})
 
   ;; either call `clerk/show!` explicitly
-  ;(clerk/show! "src/day1.clj")
+  (clerk/show! "src/day5.clj")
 
   ;; or let Clerk watch the given `:paths` for changes
   (clerk/serve! {:watch-paths ["src"]})
